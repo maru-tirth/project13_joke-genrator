@@ -3,7 +3,6 @@
 </template>
 
 <script>
-// import { get } from "http";
 
 export default {
   name: "Button",
